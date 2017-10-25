@@ -1,0 +1,38 @@
+RShift + Numpad 5 (for saving the ironsight recoil value)
+RShift + Numpad 6 (for saving the holographic recoil value)
+RShift + Numpad 7 (for saving the 2x recoil value)
+RShift + Numpad 8 (for saving the 4x recoil value)
+RShift + Numpad 9 (for saving the 8x recoil value)
+RShift + NumpadDivide (for saving the Custom1 recoil  value)
+RShift + NumpadMultiply (for saving the Custom2 recoil  value)
+RShift + LeftArrow (for saving the ClipSize1 value)
+RShift + RightArrow (for saving the ClipSize2 value)
+
+Enjoy,
+Class1
+
+
+`-.///:://:`       `://+++.     -`:///:://.     
+  /NNNNNmNmdNmd.     :NNNNNN/    `dNNNNmNNdmNm+   
+  :NNNNNNNNNNSN:     :NNNNNN:    `hNNNNNNNNNNNy   
+  :NNNNNhKNNNNd-     /NNNNNN/    `hNNNNmhmNmNms   
+  /NNNMMMMNMMMM+     /NMMMMN:    `dMMMMMMMMMMNd`  
+  :mNNNNNNNNNNN/     /NNNNNm:    `hNNNNNNNNNNNd`  
+  `+syhysssosoo.     /NNNNNm-     -syhhyysooso/   
+                     /NNNNNN:                     
+                     +NNNNNN:                     
+   ..-...............sMMMMMNo...........`````     
+  -NMMMMMMMMNdmmNMMMMMCLASS1MMMMMMMMMMNMMMMNNmy`  
+  .NNNNNNNNNNNNNNNNNNNCLASS1NNNNNNNNNNNNNNNNNNd`  
+  `dNNNNNNNNNNNNNNNNNNCLASS1NNNNNNNNNNNNNNNNNNy`  
+   .::::::::::::::://sNNNNNNo::://///////////:-   
+                     +NMMMMN/                     
+                     oMMNMNN/                     
+   ..:ossoos+/`      oNNNNNN:     `..+ossooo+-    
+  -mNNNNNNNNNNh.     oNNNNNN:    `yNNNNNNNKNNN+   
+  -oNNNNNNNNNNN-     oNNNNNN:    `/dHNANTNENRNs   
+  odNNNNNNNNNNN.     oNNNNNN-    -hNNNNNNNNNNNs   
+  osNNNNNNNNNNm.     sNNNNNN-    -sdNNNNNNNNNNo   
+  sdNNNNNNNNNNd`     +NNNNNd.    -dmNNNNNNNNNN/   
+  .::+ooo+osso:      -osysy+     `::/osoo+sso+.   
+                                                  

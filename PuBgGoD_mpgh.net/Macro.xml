@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Path NetBalancePath="C:\Program Files\NetBalancer" />
+  <HotKeys AtivarGod="F1" MudarModo="F2" LagSwtich="LagSwtich" />
+  <Armas_Auto>
+    <AKM Recoil="124" Cadencia="100" MS="100" HotKey="" />
+  </Armas_Auto>
+  <Armas_Single>
+    <AKM Recoil="99" Cadencia="225" MS="100" HotKey="" />
+  </Armas_Single>
+</Config>

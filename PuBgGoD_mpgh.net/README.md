@@ -5,14 +5,21 @@ all you need is just open and start configuring your recoil and ms.
 FEATURES;
 
 *HotKey for each weapon
+
 *HotKeys for each function
+
 *Auto move ( Recoil and MS option )
+
 *Single mode (Cadence and MS option )
+
 *Top most option
+
 *Transparence 
 
 MS = Time for the script to move down ur mouse
+
 Recoil = size of Movement to go down
+
 so right ms and small recoil will show slower down and small MS and right recoil will do a big jump down based on your MS
 
 so MS means = Milliseconds 

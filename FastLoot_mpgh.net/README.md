@@ -4,6 +4,7 @@
     Now with a configuration for all resolutions, since the last one seems to not work for all resolutions.
 
 Tutorial
+
 1 - Download the files.
 
 2 - at first open the "[CONFIG SCRIPT] RUN ME FIRST.exe". you will need to use it only in the first time.

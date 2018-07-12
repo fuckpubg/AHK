@@ -1,4 +1,9 @@
-# AHK
+# project not maintained yet due to BlueHole's BattleEye treat AHK script as cheat, with major ban risk.
+# 由于鼠标、按键脚本被蓝洞认为是作弊行为，有封号风险，本项目不再维护。
+
+****************
+
+## AHK
 some dot AHK scripts from UC or MPGH for PUBG Game,and compiled to EXE by me
 
 NOTE:
